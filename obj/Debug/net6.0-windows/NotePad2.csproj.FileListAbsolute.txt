@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\NotePad2\NotePad2\bin\Debug\net6.0-windows\NotePad2.exe
+C:\Users\Owner\source\repos\NotePad2\NotePad2\bin\Debug\net6.0-windows\NotePad2.deps.json
+C:\Users\Owner\source\repos\NotePad2\NotePad2\bin\Debug\net6.0-windows\NotePad2.runtimeconfig.json
+C:\Users\Owner\source\repos\NotePad2\NotePad2\bin\Debug\net6.0-windows\NotePad2.dll
+C:\Users\Owner\source\repos\NotePad2\NotePad2\bin\Debug\net6.0-windows\NotePad2.pdb
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.Form1.resources
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.AssemblyInfo.cs
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.dll
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\refint\NotePad2.dll
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.pdb
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\NotePad2.genruntimeconfig.cache
+C:\Users\Owner\source\repos\NotePad2\NotePad2\obj\Debug\net6.0-windows\ref\NotePad2.dll
